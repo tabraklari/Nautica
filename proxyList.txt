@@ -1,3 +1,4 @@
 143.198.213.197,443,ID,Digitalocean, LLC
 43.218.77.16,443,ID,Amazon com
 206.237.98.76,587,ID,Herza ID
+104.248.146.212,2053,Digitalocean, LLC
