@@ -2,6 +2,7 @@
 35.219.50.99,443,ID,Google LLC
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
+103.168.146.169,20132,ID,Herza
 167.99.73.22,443,SG,Digitalocean
 91.192.81.154,2053,SG,Melbikomas
 178.128.80.43,443,SG,Digitalocean
