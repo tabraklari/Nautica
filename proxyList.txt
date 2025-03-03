@@ -1,6 +1,5 @@
-45.89.230.50,31599,AE,LLC Baxet
-216.10.243.159,443,AE,PDR
 43.216.228.247,443,MY,Amazon.com, Inc
 35.219.50.99,443,ID,Google LLC
-172.232.239.151,443,ID,Akamai Technologies
+103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 167.99.73.22,443,SG,Digitalocean
+91.192.81.154,2053,SG,Melbikomas
