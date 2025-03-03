@@ -3,3 +3,4 @@
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
 167.99.73.22,443,SG,Digitalocean
 91.192.81.154,2053,SG,Melbikomas
+178.128.80.43,443,SG,Digitalocean
